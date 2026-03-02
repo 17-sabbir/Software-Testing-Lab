@@ -1,0 +1,23 @@
+admin,1234,Login Successful
+
+admin,1111,Invalid Credentials
+
+admin@gmail.com,"",Empty Password Fields
+
+"",1234,Empty UserName Fields
+
+"","",Required UserName and password Fields
+
+sabbir,9987654,Invalid Credentials
+
+robiul,jhgfdfghj,Invalid Credentials
+
+876543,987654,Invalid Credentials
+
+98765,abc,Invalid Credentials
+
+test,"",Empty Password Fields
+
+ADMIN,1234,Invalid Credentials
+
+admin,Admin1234,Invalid Credentials

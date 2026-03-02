@@ -1,0 +1,12 @@
+{
+    "name": "login-testing-lab",
+    "version": "1.0.0",
+    "private": true,
+    "type": "commonjs",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^30.0.0"
+    }
+}
